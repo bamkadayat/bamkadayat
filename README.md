@@ -4,15 +4,16 @@
 
 <p align="left">🔭 5+ years of experience in frontend and backend development, specializing in Next.js (React), Vue.js, TypeScript, and UI/UX Design—building scalable and accessible web applications that enhance user experience.</p>
 
-- 🌱 Currently learning: Spring Boot to expand my backend development expertise.
+- 🌱 **Currently learning:** <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring Boot" height="20" width="20"> **Spring Boot** to expand my backend expertise.  
+- 👨‍💻 **Check out my projects:** [bamkadayat.vercel.app](https://bamkadayat.vercel.app/)  
 
-- 👨‍💻 Check out my projects at [https://bamkadayat.vercel.app/](https://bamkadayat.vercel.app/)
-
-- 📫 How to reach me **bamkadayat@gmail.com**
-
-<h3 align="left">📫 Let's connect:</h3>
+### 📫 Let's Connect  
 <p align="left">
-<a href="https://linkedin.com/in/bam-kadayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bam-kadayat" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bam-kadayat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bamkadayat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
