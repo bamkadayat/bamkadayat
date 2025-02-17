@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bam Kadayat a Frontend Developer</h1>
 <h3 align="center">Frontend Developer | 4+ years of experience in React (Next.js), Vue.js, TypeScript, and UI/UX Design | Building Scalable and Accessible Web Applications</h3>
 
-- 🔭 I’m currently working on [Oblinor’s web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions](https://github.com/Oblinor/kontor-vue)
+- 🔭 I’m currently working on [Oblinor’s web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions]
 
 - 🌱 I’m currently learning **Spring Boot**
 
