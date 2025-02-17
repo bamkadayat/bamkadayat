@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bam Kadayat a Frontend Developer</h1>
 <h3 align="center">Frontend Developer | 4+ years of experience in React (Next.js), Vue.js, TypeScript, and UI/UX Design | Building Scalable and Accessible Web Applications</h3>
 
-- 🔭 I’m currently working on [Oblinor’s web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions]
+- 🔭 I’m currently working on Oblinor’s web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://bamkadayat.vercel.app/](https://bamkadayat.vercel.app/)
-
-- 💬 Ask me about **Next js, React, Vue**
 
 - 📫 How to reach me **bamkadayat@gmail.com**
 
