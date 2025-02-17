@@ -4,8 +4,8 @@
 
 <p align="left">🔭 5+ years of experience in frontend and backend development, specializing in Next.js (React), Vue.js, TypeScript, and UI/UX Design—building scalable and accessible web applications that enhance user experience.</p>
 
-- 🌱 **Currently learning:** <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring Boot" height="15" width="15"> **Spring Boot** to expand my backend expertise.  
-- 👨‍💻 **Check out my projects:** [bamkadayat.vercel.app](https://bamkadayat.vercel.app/)  
+- 🌱 **Currently learning:** <img src="https://github.com/user-attachments/assets/d9ff8251-aa37-410b-bdcf-3fced618e981" alt="Spring Boot" height="15" width="15"> **Spring Boot** to expand my backend expertise.  
+- 👨‍💻 **Check out my projects:** [bamkadayat.vercel.app](https://bamkadayat.vercel.app/)  ![Uploading s<?xml version="1.0" encoding="UTF-8"?>
 
 ### 📫 Let's Connect  
 <p align="left">
