@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Bam Kadayat a Frontend Developer</h1>
-<h3 align="center">I’m currently working on Oblinor’s web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions</h3>
+<h2 align="left">Hi 👋, I'm Bam Kadayat</h2>
+<h2 align="left">🚀 Frontend Developer | UI/UX Enthusiast | Full-Stack Explorer</h2>
+<p align="left">I’m currently working on Oblinor’s web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions</p>
 
-- 🔭 5+ years of experience in Frontend and backend development specially Next js (React), Vue.js, TypeScript, and UI/UX Design | Building Scalable and Accessible Web Applications
+<p align="left">🔭 5+ years of experience in frontend and backend development, specializing in Next.js (React), Vue.js, TypeScript, and UI/UX Design—building scalable and accessible web applications that enhance user experience.</p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 Currently learning: Spring Boot to expand my backend development expertise.
 
-- 👨‍💻 All of my projects are available at [https://bamkadayat.vercel.app/](https://bamkadayat.vercel.app/)
+- 👨‍💻 Check out my projects at [https://bamkadayat.vercel.app/](https://bamkadayat.vercel.app/)
 
 - 📫 How to reach me **bamkadayat@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Let's connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bam-kadayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bam-kadayat" height="30" width="40" /></a>
 </p>
