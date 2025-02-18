@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Bam Kadayat</h2>
 <h2 align="left">🚀 Frontend Developer | UI/UX Enthusiast | Full-Stack Explorer</h2>
-<p align="left">I’m currently working on <strong>Oblinor’s</strong> web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions</p>
+<h2 align="left">I’m currently working on <strong>Oblinor’s</strong> web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions</h2>
 
 <p align="left">🔭 5+ years of experience in frontend and backend development, specializing in Next.js (React), Vue.js, TypeScript, and UI/UX Design—building scalable and accessible web applications that enhance user experience.</p>
 
