@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋, I'm Bam Kadayat</h2>
 <h2 align="left">🚀 Frontend Developer | UI/UX Enthusiast | Full-Stack Explorer</h2>
-<h2 align="left">I’m currently working on <strong>Oblinor’s</strong> web platform, mobile app, and admin panel, focusing on building responsive, user-friendly, and efficient digital solutions</h2>
+<p align="left">I’m currently working on Oblinor, a crowdfunding platform in Oslo, where I contribute to the web platform, mobile app, and admin panel—focusing on building responsive, user-friendly, and efficient digital solutions.</p>
 
 <p align="left">🔭 5+ years of experience in frontend and backend development, specializing in Next.js (React), Vue.js, TypeScript, and UI/UX Design—building scalable and accessible web applications that enhance user experience.</p>
+
+<p align="left">🎓 MSc in Universal Design of ICT at OsloMet, Oslo, Norway </p>
 
 - 🌱 **Currently learning:** <img src="https://github.com/user-attachments/assets/d9ff8251-aa37-410b-bdcf-3fced618e981" alt="Spring Boot" height="15" width="15"> **Spring Boot** to expand my backend expertise.  
 - 👨‍💻 **Check out my projects:** [bamkadayat.vercel.app](https://bamkadayat.vercel.app/) 
