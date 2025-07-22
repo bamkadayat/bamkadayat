@@ -1,12 +1,14 @@
 <h2 align="left">Hi 👋, I'm Bam Kadayat</h2>
-<h2 align="left">🚀 Frontend Developer | UI/UX Enthusiast | Full-Stack Explorer</h2>
-<p align="left">I’m currently working on a crowdfunding platform in Oslo, where I contribute to the web platform, mobile app, and admin panel—focusing on building responsive, user-friendly, and efficient digital solutions.</p>
+<h2 align="left">🚀 Frontend Engineer | React • Next.js • Vue.js • TypeScript | Clean Code & Better UX</h2>
+<p align="left">A frontend developer based in Oslo with a passion for building clean, user-friendly, and accessible web apps.</p>
 
-<p align="left">🔭 5+ years of experience in frontend and backend development, specializing in Next.js (React), Vue.js, TypeScript, and UI/UX Design—building scalable and accessible web applications that enhance user experience.</p>
+<p align="left">🔭I’ve worked with React/Next.js, Vue.js, and TypeScript to build everything from mobile apps to admin panels. Currently, I’m part of a crowdfunding platform team, improving the web app, mobile UI, and internal tools.
+</p>
+
+<p align="left">I enjoy solving real problems through thoughtful design and code—whether it’s fixing performance issues, streamlining user flows, or making features more accessible.</p>
 
 <p align="left">🎓 MSc in Universal Design of ICT at OsloMet, Oslo, Norway </p>
-
-- 🌱 **Currently learning:** <img src="https://github.com/user-attachments/assets/d9ff8251-aa37-410b-bdcf-3fced618e981" alt="Spring Boot" height="15" width="15"> **Spring Boot** to expand my backend expertise.  
+  
 - 👨‍💻 **Check out my projects:** [bamkadayat.vercel.app](https://bamkadayat.vercel.app/) 
 
 ### 📫 Let's Connect  
