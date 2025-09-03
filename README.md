@@ -9,7 +9,7 @@
 
 <p align="left">🎓 MSc in Universal Design of ICT at OsloMet, Oslo, Norway </p>
   
-- 👨‍💻 **Check out my projects:** [bamkadayat.vercel.app](https://bamkadayat.vercel.app/) 
+- 👨‍💻 **Check out my projects:** [https://bamkadayat.github.io/]((https://bamkadayat.github.io/)) 
 
 ### 📫 Let's Connect  
 <p align="left">
