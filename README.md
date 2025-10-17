@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Bam Kadayat</h2>
-<h2 align="left">Frontend Engineer | React • Next.js • Vue.js • TypeScript | Clean Code & Better UX</h2>
+<h2 align="left">Frontend Engineer | •TypeScript •React • Next.js • Vue.js | Clean Code & Better UX</h2>
 <p align="left">A frontend developer based in Oslo with a passion for building clean, user-friendly, and accessible web apps.</p>
 
 <p align="left">🔭I’ve worked with React/Next.js, Vue.js, and TypeScript to build everything from mobile apps to admin panels. Currently, I’m part of a crowdfunding platform team, improving the web app, mobile UI, and internal tools.
