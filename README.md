@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Bam Kadayat</h2>
+<h2 align="left">Hi, I'm Bam Kadayat</h2>
 <h2 align="left">Frontend Engineer | •TypeScript •React • Next.js • Vue.js | Clean Code & Better UX</h2>
 <p align="left">A frontend developer based in Oslo with a passion for building clean, user-friendly, and accessible web apps.</p>
 
