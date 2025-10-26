@@ -61,15 +61,9 @@ A travel planning app built with **Next.js 15, TypeScript, and Tailwind CSS**
 🔗 [Live Demo](https://reiseklar.dev/en)
 
 #### 🛒 [BMarts - E-commerce Platform](https://github.com/bamkadayat/bmarts)
-Full-stack e-commerce solution with **React, Node.js, and PostgreSQL**  
+Full-stack e-commerce solution with **Next.js 15, Node.js, and PostgreSQL**  
 ✨ Features: Product management, shopping cart, user authentication  
 💻 [View Repository](https://github.com/bamkadayat/bmarts) 
-
----
-
-### 📊 GitHub Stats
-
-![Bam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamkadayat&show_icons=true&theme=default&hide_border=true)
 
 ---
 
