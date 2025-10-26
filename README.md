@@ -1,4 +1,4 @@
-# Hi, I'm Bam Kadayat 👋
+# Hi, I'm Bam Kadayat 
 
 ## Frontend/Full-Stack Developer | Oslo, Norway
 
@@ -8,17 +8,16 @@ I'm a frontend developer based in Oslo with a passion for building **clean, perf
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 - Build modern web applications with **React, Next.js, and TypeScript**
 - Create **accessible, WCAG 2.1-compliant** interfaces
 - Develop **reusable component libraries** and design systems
 - Work full-stack with **Node.js, PostgreSQL, and REST APIs**
-- Champion **universal design** in everything I build
 
 ---
 
-### 💼 Currently Working On
+### Currently Working On
 
 🔹 **Crowdfunding Platform** at Oblinor AS  
 Building scalable web and mobile solutions with React, Next.js, and Vue.js
@@ -28,7 +27,7 @@ Exploring new tech and building tools that solve real problems
 
 ---
 
-### 🎓 Education
+### Education
 
 **MSc in Universal Design of ICT** — OsloMet, Oslo, Norway  
 *Research focus:* Web accessibility and readability for screen reader users
@@ -54,17 +53,16 @@ Exploring new tech and building tools that solve real problems
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 #### 🧳 [Reiseklar - Travel Packing Assistant](https://github.com/bamkadayat/reiseklar)
-A smart packing list app built with **Next.js 15, TypeScript, and Tailwind CSS**  
-✨ Features: AI-powered suggestions, weather integration, customizable lists  
-🔗 [Live Demo](https://reiseklar.vercel.app) *(if deployed)*
+A Reiseklar app built with **Next.js 15, TypeScript, and Tailwind CSS**  
+✨ Features: Reiseklar ("ready to travel" in Norwegian) helps commuters in Norway plan daily routes using real-time data from Entur and weather insights from Yr.  
+🔗 [Live Demo]([https://reiseklar.dev])
 
 #### 🛒 [BMarts - E-commerce Platform](https://github.com/bamkadayat/bmarts)
 Full-stack e-commerce solution with **React, Node.js, and PostgreSQL**  
 ✨ Features: Product management, shopping cart, user authentication  
-🔗 [Live Demo](https://bmarts.vercel.app) *(if deployed)*
 
 #### 🎨 [More Projects](https://bamkadayat.github.io)
 Check out my portfolio for more work!
