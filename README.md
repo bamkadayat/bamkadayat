@@ -55,7 +55,7 @@ Exploring new tech and building tools that solve real problems
 
 ### Featured Projects
 
-#### 🧳 [Reiseklar - Travel Packing Assistant](https://github.com/bamkadayat/reiseklar)
+#### 🧳 [Reiseklar - Smart Commute Planner for Norway](https://github.com/bamkadayat/reiseklar)
 A Reiseklar app built with **Next.js 15, TypeScript, and Tailwind CSS**  
 ✨ Features: Reiseklar ("ready to travel" in Norwegian) helps commuters in Norway plan daily routes using real-time data from Entur and weather insights from Yr.  
 🔗 [Live Demo]([https://reiseklar.dev])
@@ -82,5 +82,3 @@ Check out my portfolio for more work!
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bamkadayat.github.io)
 
 ---
-
-💡 *Open to collaborating on interesting projects, especially in accessibility and web performance!*
