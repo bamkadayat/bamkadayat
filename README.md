@@ -56,16 +56,14 @@ Exploring new tech and building tools that solve real problems
 ### Featured Projects
 
 #### 🧳 [Reiseklar - Smart Commute Planner for Norway](https://github.com/bamkadayat/reiseklar)
-A Reiseklar app built with **Next.js 15, TypeScript, and Tailwind CSS**  
+A travel planning app built with **Next.js 15, TypeScript, and Tailwind CSS**  
 ✨ Features: Reiseklar ("ready to travel" in Norwegian) helps commuters in Norway plan daily routes using real-time data from Entur and weather insights from Yr.  
-🔗 [Live Demo]([https://reiseklar.dev])
+🔗 [Live Demo](https://reiseklar.dev/en)
 
 #### 🛒 [BMarts - E-commerce Platform](https://github.com/bamkadayat/bmarts)
 Full-stack e-commerce solution with **React, Node.js, and PostgreSQL**  
 ✨ Features: Product management, shopping cart, user authentication  
-
-#### 🎨 [More Projects](https://bamkadayat.github.io)
-Check out my portfolio for more work!
+💻 [View Repository](https://github.com/bamkadayat/bmarts) 
 
 ---
 
