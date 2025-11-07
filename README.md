@@ -36,7 +36,7 @@ Exploring new tech and building tools that solve real problems
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -55,19 +55,19 @@ Exploring new tech and building tools that solve real problems
 
 ### Featured Projects
 
-#### 🧳 [Reiseklar - Smart Commute Planner for Norway](https://github.com/bamkadayat/reiseklar)
+#### [Reiseklar - Smart Commute Planner for Norway](https://github.com/bamkadayat/reiseklar)
 A travel planning app built with **Next.js 15, TypeScript, and Tailwind CSS**  
 ✨ Features: Reiseklar ("ready to travel" in Norwegian) helps commuters in Norway plan daily routes using real-time data from Entur and weather insights from Yr.  
 🔗 [Live Demo](https://reiseklar.dev/en)
 
-#### 🛒 [BMarts - E-commerce Platform](https://github.com/bamkadayat/bmarts)
+#### [BMarts - E-commerce Platform](https://github.com/bamkadayat/bmarts)
 Full-stack e-commerce solution with **Next.js 15, Node.js, and PostgreSQL**  
 ✨ Features: Product management, shopping cart, user authentication  
-💻 [View Repository](https://github.com/bamkadayat/bmarts) 
+[View Repository](https://github.com/bamkadayat/bmarts) 
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bamkadayat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bamkadayat@gmail.com)
