@@ -13,7 +13,7 @@ I'm a frontend developer based in Oslo with a passion for building **clean, perf
 - Build modern web applications with **React, Next.js, and TypeScript**
 - Create **accessible, WCAG 2.1-compliant** interfaces
 - Develop **reusable component libraries** and design systems
-- Work full-stack with **Node.js, PostgreSQL, and REST APIs**
+- Work full-stack with **Node.js, PostgreSQL, WordPress and REST APIs**
 
 ---
 
