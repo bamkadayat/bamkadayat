@@ -58,7 +58,6 @@ Exploring new tech and building tools that solve real problems
 #### [Reiseklar - Smart Commute Planner for Norway](https://github.com/bamkadayat/reiseklar)
 A travel planning app built with **Next.js 15, TypeScript, and Tailwind CSS**  
 Features: Reiseklar ("ready to travel" in Norwegian) helps commuters in Norway plan daily routes using real-time data from Entur and weather insights from Yr.  
-🔗 [Live Demo](https://reiseklar.dev/en)
 
 #### [BMarts - E-commerce Platform](https://github.com/bamkadayat/bmarts)
 Full-stack e-commerce solution with **Next.js 15, Node.js, and PostgreSQL**  
