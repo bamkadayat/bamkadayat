@@ -1,6 +1,6 @@
 # Hi, I'm Bam Kadayat 
 
-## Frontend/Full-Stack Developer | Oslo, Norway
+## Frontend Developer | React · TypeScript · Vue · Node.js | Design systems & Accessibility(WCAG)
 
 **Specializing in:** React • Next.js • TypeScript • Vue.js • Accessible Web Solutions
 
