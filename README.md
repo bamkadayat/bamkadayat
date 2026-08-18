@@ -1,8 +1,7 @@
 # Hi, I'm Bam Kadayat 
 
-## Software Developer | React · TypeScript · Vue · Node.js | Design systems & Accessibility(WCAG)
-
-Software developer in Oslo with over five years in fintech. I hold a master's in Universal Design of ICT from OsloMet, so accessibility is part of how I think about every interface I build. At Oblinor, I help build a crowdlending platform used by thousands of investors in Norway, working mainly with React and TypeScript. I enjoy making products that are simple to use and built with care.
+## Full Stack Developer | Frontend & Universal Design | React, TypeScript, Node.js
+Full Stack Developer in Oslo with over five years in fintech. My master's in Universal Design means accessibility shapes every interface I build. I enjoy making products that are simple to use and built with care.
 
 ### Education
 
