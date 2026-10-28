@@ -1,7 +1,7 @@
 # Hi, I'm Bam Kadayat 
 
-## Fullstack developer (React, TypeScript, Node.js)
-Full Stack Developer in Oslo with over five years in fintech. My master's in Universal Design means accessibility shapes every interface I build. I enjoy making products that are simple to use and built with care.
+## FullStack developer (React, TypeScript, Node.js)
+FullStack Developer in Oslo with over five years in fintech. My master's in Universal Design means accessibility shapes every interface I build. I enjoy making products that are simple to use and built with care.
 
 ### Education
 
